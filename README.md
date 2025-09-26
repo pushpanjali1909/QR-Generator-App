@@ -21,8 +21,7 @@
 
 file:///C:/Users/hp/OneDrive/Desktop/QR%20Generator/index.html
 
-![QR Screenshot](![QR-Generate](https://github.com/user-attachments/assets/69534a7b-6dd5-494c-84fa-733c5e1db195)
-)
+![QR Screenshot](https://github.com/pushpanjali1909/QR-Generator-App/blob/main/QR-Generate.jpg)
 
 
 ---

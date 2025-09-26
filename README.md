@@ -19,7 +19,7 @@
 
 ## 📸 Demo
 
-https://github.com/pushpanjali1909/QR-Generator-App/blob/main/index.html
+
 
 ![QR Screenshot](https://github.com/pushpanjali1909/QR-Generator-App/blob/main/QR-Generate.jpg)
 
